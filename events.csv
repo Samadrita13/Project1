@@ -1,0 +1,26 @@
+event_id,title,club,tags,level,mode,day
+E101,Intro to ML Workshop,AI Club,"ai,ml",beginner,offline,weekend
+E102,UI/UX Jam,Design Club,"design,uiux",beginner,offline,weekend
+E103,IoT Build Night,Robotics Club,"iot,embedded",intermediate,offline,weekday
+E104,NLP Mini-Project Sprint,AI Club,"nlp,ai",intermediate,online,weekend
+E105,Hackathon 24hr,Tech Society,"hackathon,webdev,ai",intermediate,offline,weekend
+E106,CAD for Beginners,Mech Club,"cad,design",beginner,offline,weekday
+E107,Public Speaking Masterclass,Debate Society,"publicspeaking,communication",beginner,offline,weekend
+E108,Python for Everyone,Coding Club,"python,datascience",beginner,online,weekday
+E109,AI for Beginners,AI Club,"ai,ml,basics",beginner,offline,weekend
+E110,Data Science Bootcamp,Coding Club,"datascience,python,ml",intermediate,online,weekday
+E111,Machine Learning Case Study Night,AI Club,"ml,case-study",intermediate,offline,weekend
+E112,Arduino Hands-on Session,Robotics Club,"iot,arduino,embedded",beginner,offline,weekend
+E113,Robotics Simulation Workshop,Robotics Club,"robotics,simulation",intermediate,online,weekday
+E114,PCB Design Basics,Electronics Club,"electronics,pcb,hardware",beginner,offline,weekend
+E115,Web Development 101,Coding Club,"webdev,html,css",beginner,online,weekday
+E116,Git & GitHub Essentials,Tech Society,"git,github,opensource",beginner,online,weekend
+E117,Backend with Python,Coding Club,"python,backend,api",intermediate,offline,weekend
+E118,Canva for Beginners,Design Club,"design,canva,creativity",beginner,online,weekday
+E119,UI/UX Design Sprint,Design Club,"uiux,design,prototype",intermediate,offline,weekend
+E120,Poster Making Competition,Design Club,"design,graphics,art",beginner,offline,weekend
+E121,Debate & Public Speaking,Debate Society,"publicspeaking,debate,communication",beginner,offline,weekend
+E122,Resume Building Workshop,Career Cell,"resume,career,communication",beginner,online,weekday
+E123,Interview Skills Training,Career Cell,"interview,hr,communication",intermediate,offline,weekend
+E124,Mini Hackathon 6hr,Tech Society,"hackathon,coding,problem-solving",beginner,offline,weekend
+E125,Open Innovation Challenge,Innovation Cell,"innovation,startup,ideas",intermediate,offline,weekend
