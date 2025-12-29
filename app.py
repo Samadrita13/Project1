@@ -1,11 +1,6 @@
 import streamlit as st
 from src.data_loader import load_students, load_events, get_student
 from src.recommender import recommend
-import streamlit as st
-
-st.title("✅ App is running")
-st.write("If you see this text, Streamlit rendering works.")
-st.title("🎓 College Event Recommender (Simple)")
 
 students_df = load_students()
 events_df = load_events()
@@ -27,4 +22,5 @@ if st.button("Recommend"):
             st.write(f"Club: {r['club']}")
             st.write(f"Tags: {r['tags']}")
             st.write(f"Level: {r['level']} | Day: {r['day']} | Mode: {r['mode']}")
+
             st.divider()
